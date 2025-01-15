@@ -50,6 +50,8 @@ Power BI Performance Dashboard
   </li>
 </ul>
 
+![image alt](Treemap.png) ![image alt](Waterfall.png) ![image alt](Columnchart.png) ![image alt](Scatter.png)
+
 ### Key Insights
 <ul>
   <li>Quantity Performance
@@ -70,6 +72,13 @@ Power BI Performance Dashboard
   </li>
 </ul>
 </ul>
+
+### Dashboard Demo
+
+
+https://github.com/user-attachments/assets/0390110c-3232-4340-afdd-c9169b982abb
+
+
 
 ### Reflection
 <ul>
